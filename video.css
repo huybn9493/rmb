@@ -1,16 +1,18 @@
-
+html {
+    background-color: #f7f7f7;
+}
 
 nav .brand-logo {
-	color: #444;
+	color: #fff;
 }
 
 nav {
 	color: #ffab40;
-	background-color: #fafafa;
+	background-color: #546e79;
 }
 
 nav ul a {
-    color: #444;
+    color: #fff;
 
 }
 
@@ -83,10 +85,18 @@ nav ul a {
     
 }
 
+.card .card-content {
+    height: 128px;
+}
+
+.card .card-action {
+    padding: 12px 24px;
+}
+
 .card .card-image p {
     font-size: 1.5rem;
     text-align: center;
-    margin: 1rem;
+    margin: .5rem;
 }
 
 .card p {
@@ -126,11 +136,10 @@ nav ul a {
     height: 100%;
  }
 
- .no-float {
-    clear: both;
-}
 
- .wrap {
-    margin: auto;
- }
+
+ .collapsible-header {
+    color: #fafafa;
+    background-color: #546e79;
+}
 
