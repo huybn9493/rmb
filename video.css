@@ -1,0 +1,136 @@
+
+
+nav .brand-logo {
+	color: #444;
+}
+
+nav {
+	color: #ffab40;
+	background-color: #fafafa;
+}
+
+nav ul a {
+    color: #444;
+
+}
+
+.card .card-image img {
+    display: block;
+    border-radius: 2px 2px 0 0;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 70%;
+}
+
+.card {
+    float: left;
+    margin: 0rem .5rem;
+    width: 270px;
+    height: 100%;
+    background-color: #546e7a;
+
+}
+
+.container {
+    margin: 0;
+}
+
+.card .card-content {
+    padding: 16px;
+}
+
+.card .card-title {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.row {
+    float: left;
+    margin-top: 1rem;
+    height: 400px;
+}
+
+.row .col {
+    padding: 0;
+}
+
+.row .col.s9 {
+    position: relative;
+    width: 121%;
+    margin-left: auto;
+    left: 245px;
+    top: -190px;
+    right: auto;
+}
+
+.row .col.s3 {
+    width: 250px;
+}
+
+.card .card-image img {
+    display: block;
+    border-radius: 2px 2px 0 0;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 185px;
+    width: auto;
+    
+}
+
+.card .card-image p {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 1rem;
+}
+
+.card p {
+    color: #fafafa;
+    font-weight: lighter;
+    font-size: medium;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+.youtube {
+ position:relative;
+ padding-bottom:56.25%;
+ padding-top:30px;
+ height:0;
+ overflow:hidden;
+ }
+
+.youtube iframe, .youtube object, .youtube embed, .youtube video {
+ position:absolute;
+ top:0;
+ left:0;
+ width:100%;
+ height:100%;
+ }
+
+ .wy {
+ 
+ width: 80%;
+ max-width: 1200px;
+ margin: 0 auto;
+ }
+
+ .flo {
+    min-width: 270px;
+    float: left;
+    width: 70%;
+    height: 100%;
+ }
+
+ .no-float {
+    clear: both;
+}
+
+ .wrap {
+    margin: auto;
+ }
+
